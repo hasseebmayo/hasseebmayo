@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasseebmayo" alt="hasseebmayo" /></a> </p>
 
-- 🌱 I’m currently learning **React,Next**
-
 - 📫 How to reach me **hasseebmayo@gmail.com**
 
 ### Blogs posts
